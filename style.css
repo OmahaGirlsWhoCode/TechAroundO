@@ -1,0 +1,52 @@
+.gwc-name {
+  text-align: center;
+  font-size: 75px;
+  color: #FF383F;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-general1 {
+  font-size: 35px;
+  margin: 30px 30px 50px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+.gwc-general2 {
+  font-size: 35px;
+  margin: 30px 30px 45px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.gwc-profile {
+  margin: 20px 0px 20px 20px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  width: 75%;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+  display: inline-block;
+}
+
+span {
+  color: #FF383F;
+}
+
+.gwc-picture {
+  margin: 20px 20px 20px 0px;
+  float: right;
+  border: 5px solid #A9A9A9;
+  width: 20%;
+  position: relative;
+}
+
+.gwc-qanda {
+  margin: 20px 20px 20px 20px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  width: 97%;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+}
