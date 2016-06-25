@@ -12,6 +12,83 @@
 
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
-
+<div class="gwc-profile">
+  <h1 class="gwc-name"> Deepak Khazanchi
+ <h1>
+  <br/>
+    <h3 class = "gwc-general1"> <span> Occupation: </span> Professor  </h3>
+    <h3 class = "gwc-general2"> <span> Who he is: </span> "I am interested in engaging young people from all backgrounds in learning about coding and IT while appreciating that the IT profession is about more than coding - it is about design, abstraction, problem solving, critical inquiry, management, listening, and much more."</h3>
+</div>
+    
+<img class = "gwc-picture" src="http://nebraska.edu/images/logos/UNomaha.jpg" alt="Omaha North logo">
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What is a regular work day like for you? </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> In my job, I work with students, faculty, staff, middle and high schools, and companies. Teaching, research, speaking, consulting and community engagement make up my daily routine in various combinations. 
+</h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What do you love most about your career/major?
+ </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> I love the fact that I can impact people’s lives in a positive and sustainable way. 
+</h3>
+</div>
+ 
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> When did you become inspired to partake in tech? What was your inspiration?  </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> I was inspired and motivated to do a PhD in the information systems field by mentor and professor, Dr. John Schermerhorn, at a time when the field was relatively new. 
+ </h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What prepared you the best for your job/major today? </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> Both my educational and life experiences prepared me for my job today. 
+</h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What is the biggest obstacle you’ve been faced with, and how are/did you overcoming/overcome it?  </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> The biggest obstacle I have faced in my current job is the lack of resources to support students who cannot afford or have access to higher education. I have been working on obtaining private grants to support the engagement of young students in our IT programs. 
+</h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What non-tech skill do you find most helpful/important that’s for your career?
+ </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> Listening and communications skills. 
+ </h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> Where do you see yourself in ten years? </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> Continuing to teach and conduct research in the IT field. 
+</h3>
+</div>
+ 
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What’s your favorite coding language? </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> I’d rather manage people who code :-)
+</h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What are some of your interests outside tech? </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> Reading, travel, and family activities. 
+</h3>
+</div>
+    
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What are your plans for future projects? </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> I hope to write a book for practitioners on IT project management. 
+ </h3>
+</div>
+   
+<div class="gwc-qanda">
+    <h3 class = "gwc-general2"> <span> Q: </span> What advice would you give a young person interested in tech now? 
+ </h3>
+    <h3 class = "gwc-general2"> <span> A: </span> IT is ubiquitous in our lives; use it to have a positive impact on society and the work around you. 
+ </h3>
+</div>
 </body>
 </html>
