@@ -87,6 +87,13 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   }
 }
 
+#gwc-back {
+  font-size: 20px;
+  padding-left: 20px;
+  font-family: 'Poiret One', cursive;
+  color: #FF383F;
+}
+
 .gwc-personname {
   text-align: center;
   font-size: 75px;
