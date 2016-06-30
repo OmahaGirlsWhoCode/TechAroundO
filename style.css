@@ -340,3 +340,32 @@ ul.gwc-topnav li.gwc-icon {
   padding-left: 20px;
   padding-bottom: 20px;
 }
+
+.gwc-gametitle {
+  text-align: center;
+  font-size: 50px;
+  color: #FF383F;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-gamegeneral {
+  font-size: 20px;
+  margin: 30px 30px 40px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.gwc-aboutgame {
+  margin: 20px 0px 20px 20px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+  display: inline-block;
+  width: 25%;
+}
+
+.gwc-game {
+  background-color: #FF383F;
+  display: inline-block;
+}
