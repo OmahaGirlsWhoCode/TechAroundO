@@ -1,8 +1,3 @@
-<head>
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-</head>
-
-
 ul.gwc-topnav {
     list-style-type: none;
     margin: 0 0 20px 0;
@@ -385,37 +380,37 @@ ul.gwc-topnav li.gwc-icon {
   overflow: hidden;
   border: 5px solid #FF383F;
   margin: 20px;
-  .gwc-profilepic {
-    width: 100%;
-    height: auto;
-  }
-  .gwc-profileinfo {
-    position: absolute;
-    top: 210px;
-    height: 320px;
-    width: 100%;
-    color: #EFEFEF;
-    background-color: #A9A9A9;
-    font-family: 'Poiret One', cursive;
-    -ms-transition: -ms-transform 1s;
-    -webkit-transition: -webkit-transform 1s;
-    transition: transform 1s;
-    &:hover {
-      -ms-transform: translateY(-(215px));
-      -webkit-transform: translateY(-(215px));
-       transform: translateY(-(215px));
-    }
-    .gwc-infotitle {
-      height: 50px;
-      font-size: 25px;
-      padding: 15px;
-      .gwc-infosubtitle {
-        font-size: 60%;
-        color: #EFEFEF;
-      }
-    }
-    .gwc-profilesum {
-      padding: 15px;
-    }
-  }
+}
+.gwc-mainprofile .gwc-profilepic {
+  width: 100%;
+  height: auto;
+}
+.gwc-mainprofile .gwc-profileinfo {
+  position: absolute;
+  top: 210px;
+  height: 320px;
+  width: 100%;
+  color: #EFEFEF;
+  background-color: #A9A9A9;
+  font-family: 'Poiret One', cursive;
+  -ms-transition: -ms-transform 1s;
+  -webkit-transition: -webkit-transform 1s;
+  transition: transform 1s;
+}
+.gwc-mainprofile .gwc-profileinfo:hover {
+  -ms-transform: translateY(-215px);
+  -webkit-transform: translateY(-215px);
+  transform: translateY(-215px);
+}
+.gwc-mainprofile .gwc-profileinfo .gwc-infotitle {
+  height: 50px;
+  font-size: 25px;
+  padding: 15px;
+}
+.gwc-mainprofile .gwc-profileinfo .gwc-infotitle .gwc-infosubtitle {
+  font-size: 60%;
+  color: #EFEFEF;
+}
+.gwc-mainprofile .gwc-profileinfo .gwc-profilesum {
+  padding: 15px;
 }
