@@ -370,3 +370,47 @@ ul.gwc-topnav li.gwc-icon {
   display: inline-block;
 
 }
+
+
+
+.gwc-mainprofile {
+  font-family: garamond;
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+  border: 5px solid #FF383F;
+  margin: 20px;
+  .gwc-profilepic {
+    width: 100%;
+    height: auto;
+  }
+  .gwc-profileinfo {
+    position: absolute;
+    top: 210px;
+    height: 320px;
+    width: 100%;
+    color: #EFEFEF;
+    background-color: #A9A9A9;
+    font-family: 'Poiret One', cursive;
+    -ms-transition: -ms-transform 1s;
+    -webkit-transition: -webkit-transform 1s;
+    transition: transform 1s;
+    &:hover {
+      -ms-transform: translateY(-(215px));
+      -webkit-transform: translateY(-(215px));
+       transform: translateY(-(215px));
+    }
+    .gwc-infotitle {
+      height: 50px;
+      font-size: 25px;
+      padding: 15px;
+      .gwc-infosubtitle {
+        font-size: 60%;
+        color: #EFEFEF;
+      }
+    }
+    .gwc-profilesum {
+      padding: 15px;
+    }
+  }
+}
