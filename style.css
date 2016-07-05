@@ -356,22 +356,22 @@ ul.gwc-topnav li.gwc-icon {
 }
 
 .gwc-aboutgame {
-  margin: 20px 20px 20px 20px;
+  margin: 20px;
   font-family: garamond;
   border: 5px solid #A9A9A9;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
   display: inline-block;
-  
+  width: 80%;
+  float: right;
 }
 
 .gwc-game {
-  background-color: #FF383F;
+  margin: 20px;
   display: inline-block;
-
+  height: auto;
+  float: left;
 }
-
-
 
 .gwc-mainprofile {
   font-family: garamond;
