@@ -382,15 +382,11 @@ ul.gwc-topnav li.gwc-icon {
   border: 5px solid #FF383F;
   margin: 20px;
 }
+
 .gwc-mainprofile .gwc-profilepic {
   width: 100%;
   height: auto;
 }
-
-.gwc-mainprofile .gwc-profilepic .gwc-logo2small {
-  height: 320px;
-}
-
 
 .gwc-mainprofile .gwc-profileinfo {
   position: absolute;
