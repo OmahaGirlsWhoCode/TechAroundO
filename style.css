@@ -386,6 +386,12 @@ ul.gwc-topnav li.gwc-icon {
   width: 100%;
   height: auto;
 }
+
+.gwc-mainprofile .gwc-profilepic .gwc-logo2small {
+  height: 320px;
+}
+
+
 .gwc-mainprofile .gwc-profileinfo {
   position: absolute;
   top: 210px;
