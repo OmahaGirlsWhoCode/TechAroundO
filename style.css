@@ -102,7 +102,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 .gwc-general1 {
-  font-size: 18px;
+  font-size: 20px;
   margin: 40px 30px 30px 30px;
   color: black;
   font-family: 'Oxygen', sans-serif;
@@ -140,7 +140,7 @@ span {
 }
 
 .gwc-picture {
-  margin: 20px 20px 20px 0px;
+  margin: 20px 20px 30px 0px;
   float: right;
   border: 5px solid #A9A9A9;
   width: 20%;
