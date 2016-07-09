@@ -102,7 +102,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 .gwc-general1 {
-  font-size: 10px;
+  font-size: 18px;
   margin: 30px 30px 40px 30px;
   color: black;
   font-family: 'Oxygen', sans-serif;
@@ -110,7 +110,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 
 
 .gwc-general2 {
-  font-size: 10px;
+  font-size: 15px;
   margin: 30px 30px 40px 30px;
   color: black;
   font-family: 'Oxygen', sans-serif;
@@ -140,7 +140,7 @@ span {
 
 .gwc-qanda {
   margin: 20px 20px 20px 20px;
-  font-size: 10px;
+  font-size: 15px;
   font-family: garamond;
   border: 5px solid #A9A9A9;
   width: 97%;
