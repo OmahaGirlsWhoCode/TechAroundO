@@ -383,6 +383,7 @@ ul.gwc-topnav li.gwc-icon {
   display: inline-block;
   height: auto;
   float: left;
+  width: 500px;
 }
 
 .gwc-mainprofile {
