@@ -116,6 +116,13 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   font-family: 'Oxygen', sans-serif;
 }
 
+.gwc-general3 {
+  font-size: 15px;
+  margin: 15px 30px 30px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
 .gwc-profile {
   margin: 20px 0px 20px 20px;
   font-family: garamond;
