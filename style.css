@@ -160,11 +160,11 @@ span {
 
 .carousel {
   width: 65%;
-  margin: 0 auto;
+  margin: auto;
 }
 #carousel-example-generic {
   width: 90%;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .gwc-footerleft {
