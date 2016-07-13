@@ -176,6 +176,9 @@ span {
   font-family: 'Poiret One', cursive;
 }
 
+.carousel-example-generic {
+    width: 95%;
+}
 .gwc-footer-details2 {
   font-size: 20px;
   padding-left: 20px;
