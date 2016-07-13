@@ -430,6 +430,9 @@ ul.gwc-topnav li.gwc-icon {
   padding: 15px;
 }
 
+.carousel-inner {
+    width: 90%;
+}
 .carousel-caption {
    top: 45%;
    display: inline-block;
