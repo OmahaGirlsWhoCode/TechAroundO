@@ -433,7 +433,7 @@ ul.gwc-topnav li.gwc-icon {
 .carousel-caption {
    top: 50%;
    display: inline-block;
-   margin-top: 0px;
+   margin-top: -30px;
   
 }
 
