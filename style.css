@@ -159,10 +159,12 @@ span {
 }
 
 .carousel {
+  display: block;
   width: 65%;
   margin: auto;
 }
 #carousel-example-generic {
+  display: block;
   width: 90%;
   margin: auto;
 }
