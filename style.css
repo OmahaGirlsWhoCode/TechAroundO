@@ -160,13 +160,13 @@ span {
 
 .carousel {
   display: inline-block;
-  width: 65%;
-  margin: auto;
+  width: 50%;
+  margin: 0 auto;
 }
 #carousel-example-generic {
   display: inline-block;
-  width: 90%;
-  margin: auto;
+  width: 50%;
+  margin: 0 auto;
 }
 
 .gwc-footerleft {
