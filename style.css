@@ -159,8 +159,15 @@ span {
 }
 
 .carousel {
-    width: 90%;
+  width: 65%;
+  float: left;
+  margin: 0 0 0 5%;
 }
+#carousel-example-generic {
+  width: 90%;
+  margin: 0 auto;
+}
+
 .gwc-footerleft {
   background-color: #FF383F;
   color: #EFEFEF;
