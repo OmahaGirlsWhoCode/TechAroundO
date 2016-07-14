@@ -13,7 +13,7 @@ ul.gwc-topnav {
 
 .gwc-name {
    color: #A9A9A9;
-   font-family: 'Poiret One', cursive;  
+   font-family: 'Poiret One', curive;  
    margin: 0 0;
    padding: 0 0;
 }
@@ -156,17 +156,6 @@ span {
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
   margin: 20px;
-}
-
-#gwc-carousel {
-  display: inline-block;
-  width: 80%;
-  padding: 0 10% 0 10%;
-}
-
-#carousel-example-generic {
-  display: inline-block;
-  margin: 0 auto;
 }
 
 .gwc-footerleft {
@@ -441,11 +430,7 @@ ul.gwc-topnav li.gwc-icon {
   padding: 15px;
 }
 
-.carousel-inner {
-    width: 90%;
-}
 .carousel-caption {
-   top: 0%;
+   top: 45%;
    display: inline-block;
-  }
-
+}
