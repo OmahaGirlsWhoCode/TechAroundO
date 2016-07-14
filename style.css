@@ -450,7 +450,9 @@ ul.gwc-topnav li.gwc-icon {
   }
 .carousel-image {
     width:  8000px;
-    height: 500px;
+    height: 1000px;
+    background-repeat:   no-repeat;
+    background-size:     cover;
     
 }
 
