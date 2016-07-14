@@ -13,7 +13,7 @@ ul.gwc-topnav {
 
 .gwc-name {
    color: #A9A9A9;
-   font-family: 'Poiret One', curive;  
+   font-family: 'Poiret One', cursive;  
    margin: 0 0;
    padding: 0 0;
 }
@@ -161,12 +161,12 @@ span {
 .carousel {
   display: inline-block;
   width: 50%;
-  margin: 0 auto;
+  margin: 0 10% 0 10%;
 }
 #carousel-example-generic {
   display: inline-block;
   width: 50%;
-  margin: 0 10% 0 10%;
+  margin: 0 auto;
 }
 
 .gwc-footerleft {
