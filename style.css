@@ -160,6 +160,7 @@ span {
 
 #carousel {
   display: inline-block;
+  width: 80%;
   margin: 0 auto;
 }
 
