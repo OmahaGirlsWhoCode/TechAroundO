@@ -435,6 +435,6 @@ ul.gwc-topnav li.gwc-icon {
    display: inline-block;
 }
 
-.carousel-inner {
+.gwc-carousel {
     width: 90%;
 }
