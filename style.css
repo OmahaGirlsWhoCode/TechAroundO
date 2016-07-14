@@ -448,5 +448,10 @@ ul.gwc-topnav li.gwc-icon {
    top: 15%;
    display: inline-block;
   }
+.carousel-image {
+    width:  100px;
+    height: 100px;
+    
+}
 
 
