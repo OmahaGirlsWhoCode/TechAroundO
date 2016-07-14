@@ -434,3 +434,7 @@ ul.gwc-topnav li.gwc-icon {
    top: 45%;
    display: inline-block;
 }
+
+.carousel {
+    width: 80%;
+}
