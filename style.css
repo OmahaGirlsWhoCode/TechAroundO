@@ -431,7 +431,7 @@ ul.gwc-topnav li.gwc-icon {
 }
 
 .carousel-caption {
-   top: 25%;
+   top: 20%;
    display: inline-block;
 }
 
@@ -442,5 +442,5 @@ ul.gwc-topnav li.gwc-icon {
 
 #gwc-carousel-example-generic {
     width: 90%;
-    padding: 5%;
+    margin: 5%;
 }
