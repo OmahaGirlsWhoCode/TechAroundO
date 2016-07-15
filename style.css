@@ -362,23 +362,19 @@ ul.gwc-topnav li.gwc-icon {
 
 .gwc-gamegeneral {
   font-size: 20px;
-  margin: 30px 30px 40px 30px;
   color: black;
   font-family: 'Oxygen', sans-serif;
 }
 
 .gwc-aboutgame {
-  font-family: garamond;
   border: 5px solid #A9A9A9;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
-  display: inline-block;
   width: 50%;
   float: left;
 }
 
 .gwc-game {
-  display: inline-block;
   height: auto;
   width: 500px;
 }
