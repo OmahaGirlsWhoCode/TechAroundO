@@ -368,21 +368,18 @@ ul.gwc-topnav li.gwc-icon {
 }
 
 .gwc-aboutgame {
-  margin: 20px;
   font-family: garamond;
   border: 5px solid #A9A9A9;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
   display: inline-block;
-  width: 80%;
+  width: 50%;
   float: left;
 }
 
 .gwc-game {
-  margin: 20px;
   display: inline-block;
   height: auto;
-  float: left;
   width: 500px;
 }
 
