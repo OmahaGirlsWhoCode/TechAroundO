@@ -372,11 +372,13 @@ ul.gwc-topnav li.gwc-icon {
   font-family: 'Oxygen', sans-serif;
   width: 50%;
   float: left;
+  display: inline-block;
 }
 
 .gwc-game {
   height: auto;
   width: 500px;
+  display: inline-block;
 }
 
 .gwc-mainprofile {
