@@ -435,7 +435,7 @@ ul.gwc-topnav li.gwc-icon {
    display: inline-block;
 }
 
-.gwc-indextopnav {
+ul.gwc-topnav.gwc-indextopnav {
     margin: 0 0 0 0px;
 }
 Contact GitHub API Training Shop Blog About
