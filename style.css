@@ -311,16 +311,17 @@ ul.gwc-topnav li.gwc-icon {
 
 .gwc-abouttitle {
   text-align: center;
-  font-size: 75px;
+  font-size: 60px;
   color: #FF383F;
   font-family: 'Poiret One', cursive;
 }
 
-a {
+a:link {
     color: #EFEFEF;
 }
+
 .gwc-aboutgeneral {
-  font-size: 25px;
+  font-size: 20px;
   margin: 30px 30px 40px 30px;
   color: black;
   font-family: 'Oxygen', sans-serif;
