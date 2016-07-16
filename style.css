@@ -23,6 +23,7 @@ ul.gwc-topnav {
 /* Float the list items side by side */
 ul.gwc-topnav li {
   display: inline-block;
+  float: right;
  }
 #gwc-pic {
   float: left;
