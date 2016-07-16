@@ -1,1 +1,438 @@
+ul.gwc-topnav {
+    list-style-type: none;
+    margin: 0 0 20px 0;
+    padding: 15px 15px 15px 30px;
+    overflow: hidden;
+    background-color: #CAEBF2;
+    float: none;
+    text-align: center;
+}
+.gwc-logo {
+ width: 50px;
+}
+
+.gwc-name {
+   color: #A9A9A9;
+   font-family: 'Poiret One', curive;  
+   margin: 0 0;
+   padding: 0 0;
+}
+.gwc-name-h1 {
+  margin-top: 5px;
+}
+/* Float the list items side by side */
+ul.gwc-topnav li {
+  display: inline-block;
+ }
+#gwc-pic {
+  float: left;
+}
+.gwc-logo {
+  float: left;
+}
+.gwc-name {
+  float: left;
+}
+/* Style the links inside the list items */
+ul.gwc-topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+    
+}
+
+/* Change background color of links on hover */
+ul.gwc-topnav li a:hover {background-color: #111;}
+
+/* Hide the list item that contains the link that should open and close the topnav on small screens */
+ul.gwc-topnav li.gwc-icon {display: none;}
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:680px) {
+  ul.gwc-topnav li:not(:first-child) {display: none;}
+  ul.gwc-topnav li.gwc-icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:680px) {
+  ul.gwc-topnav li:not(:first-child) {display: none;}
+  ul.gwc-topnav li.gwc-icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+@media screen and (max-width:680px) {
+  ul.gwc-topnav.responsive {position: relative;}
+  ul.gwc-topnav.responsive li.gwc-icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.gwc-topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.gwc-topnav.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
+
+#gwc-back {
+  font-size: 20px;
+  padding-left: 20px;
+  font-family: 'Poiret One', cursive;
+  color: #FF383F;
+}
+
+.gwc-personname {
+  text-align: center;
+  font-size: 65px;
+  color: #FF383F;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-general1 {
+  font-size: 25px;
+  margin: 40px 30px 40px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+.gwc-general2 {
+  font-size: 15px;
+  margin: 30px 30px 15px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+
+.gwc-general3 {
+  font-size: 15px;
+  margin: 15px 30px 30px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+  text-align: left;
+}
+
+.gwc-profile {
+  margin: 20px 0px 20px 20px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  width: 75%;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+  display: inline-block;
+}
+
+span {
+  color: #FF383F;
+}
+
+.gwc-picture {
+  margin: 20px 20px 30px 0px;
+  float: right;
+  border: 5px solid #A9A9A9;
+  width: 20%;
+  position: relative;
+  
+}
+
+.gwc-qanda {
+  font-size: 15px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  width: 97%;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+  margin: 20px;
+}
+
+.gwc-footerleft {
+  background-color: #FF383F;
+  color: #EFEFEF;
+}
+
+.gwc-footer-techo {
+  font-size: 25px;
+  padding: 20px;
+  padding-bottom: 10px;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-footer-details {
+  font-size: 20px;
+  padding-left: 20px;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-footer-details2 {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  font-family: 'Poiret One', cursive;
+}
+
+
+ul.gwc-topnav {
+  list-style-type: none;
+  margin: 0 0 20px 0;
+  padding: 15px 15px 15px 30px;
+  overflow: hidden;
+  background-color: #333;
+  float: none;
+  text-align: center;
+}
+
+.gwc-logo {
+  width: 50px;
+}
+
+.gwc-name {
+  color: #A9A9A9;
+  font-family: 'Poiret One', curive;
+  margin: 0 0;
+  padding: 0 0;
+}
+
+.gwc-name-h1 {
+  margin-top: 5px;
+}
+
+
+/* Float the list items side by side */
+
+ul.gwc-topnav li {
+  display: inline-block;
+}
+
+#gwc-pic {
+  float: left;
+}
+
+.gwc-logo {
+  float: left;
+}
+
+.gwc-name {
+  float: left;
+}
+
+
+/* Style the links inside the list items */
+
+ul.gwc-topnav li a {
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+
+/* Change background color of links on hover */
+
+ul.gwc-topnav li a:hover {
+  background-color: #111;
+}
+
+
+/* Hide the list item that contains the link that should open and close the topnav on small screens */
+
+ul.gwc-topnav li.gwc-icon {
+  display: none;
+}
+
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+
+@media screen and (max-width:680px) {
+  ul.gwc-topnav li:not(: first-child) {
+    display: none;
+  }
+  ul.gwc-topnav li.gwc-icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+
+@media screen and (max-width:680px) {
+  ul.gwc-topnav li:not(: first-child) {
+    display: none;
+  }
+  ul.gwc-topnav li.gwc-icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+
+@media screen and (max-width:680px) {
+  ul.gwc-topnav.responsive {
+    position: relative;
+  }
+  ul.gwc-topnav.responsive li.gwc-icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.gwc-topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.gwc-topnav.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
+
+.gwc-abouttitle {
+  text-align: center;
+  font-size: 75px;
+  color: #FF383F;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-aboutgeneral {
+  font-size: 25px;
+  margin: 30px 30px 40px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.gwc-aboutus {
+  margin: 20px 0px 20px 20px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+  display: inline-block;
+  width: 97%;
+}
+
+.gwc-footerleft {
+  background-color: #FF383F;
+  color: #EFEFEF;
+}
+
+.gwc-footer-techo {
+  font-size: 20px;
+  padding: 20px;
+  padding-bottom: 10px;
+}
+
+.gwc-footer-details {
+  font-size: 15px;
+  padding-left: 20px;
+}
+
+.gwc-footer-details2 {
+  font-size: 15px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+
+.gwc-gametitle {
+  text-align: center;
+  font-size: 50px;
+  color: #FF383F;
+  font-family: 'Poiret One', cursive;
+}
+
+.gwc-gamegeneral {
+  font-size: 20px;
+  margin: 30px 30px 40px 30px;
+  color: black;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.gwc-aboutgame {
+  margin: 20px;
+  font-family: garamond;
+  border: 5px solid #A9A9A9;
+  background: #EFEFEF;
+  font-family: 'Oxygen', sans-serif;
+  display: inline-block;
+  width: 80%;
+  float: right;
+}
+
+.gwc-game {
+  margin: 20px;
+  display: inline-block;
+  height: auto;
+  float: left;
+  width: 500px;
+}
+
+.gwc-mainprofile {
+  font-family: garamond;
+  position: relative;
+  height: 300px;
+  overflow: hidden;
+  border: 5px solid #FF383F;
+  margin: 20px;
+}
+
+.gwc-mainprofile .gwc-profilepic {
+  width: 100%;
+  height: auto;
+}
+
+.gwc-mainprofile .gwc-profileinfo {
+  position: absolute;
+  top: 210px;
+  height: 320px;
+  width: 100%;
+  color: #EFEFEF;
+  background-color: #A9A9A9;
+  font-family: 'Poiret One', cursive;
+  -ms-transition: -ms-transform 1s;
+  -webkit-transition: -webkit-transform 1s;
+  transition: transform 1s;
+}
+.gwc-mainprofile .gwc-profileinfo:hover {
+  -ms-transform: translateY(-215px);
+  -webkit-transform: translateY(-215px);
+  transform: translateY(-215px);
+}
+.gwc-mainprofile .gwc-profileinfo .gwc-infotitle {
+  height: 50px;
+  font-size: 25px;
+  padding: 15px;
+}
+.gwc-mainprofile .gwc-profileinfo .gwc-infotitle .gwc-infosubtitle {
+  font-size: 60%;
+  color: #EFEFEF;
+}
+.gwc-mainprofile .gwc-profileinfo .gwc-profilesum {
+  padding: 15px;
+}
+
+.carousel-caption {
+   top: 45%;
+   display: inline-block;
+}
+Contact GitHub API Training Shop Blog About
 
