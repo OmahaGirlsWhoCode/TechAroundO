@@ -316,7 +316,7 @@ ul.gwc-topnav li.gwc-icon {
   font-family: 'Poiret One', cursive;
 }
 
-a:link {
+.gwc-aboutgeneral a:link {
     color: #EFEFEF;
 }
 
