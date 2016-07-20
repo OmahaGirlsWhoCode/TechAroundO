@@ -442,3 +442,10 @@ ul.gwc-topnav li.gwc-icon {
     width: 90%;
     margin: 0 10% 0 10%;
 }
+
+#scspic {
+background-image: url("https://omahagirlswhocode.github.io/TechAroundO/profile-pictures/sarah-seymour.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100%;
+}
