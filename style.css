@@ -404,7 +404,7 @@ ul.gwc-topnav li.gwc-icon {
   height: auto;
   margin:auto;
   width: 400px;
-  display: inline-block;
+  display: block;
 }
 
 .gwc-mainprofile {
