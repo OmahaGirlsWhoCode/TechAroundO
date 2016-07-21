@@ -396,15 +396,15 @@ ul.gwc-topnav li.gwc-icon {
   border: 5px solid #A9A9A9;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
-  margin: 10%;
+  margin: 15%;
   display: inline-block;
 }
 
 .gwc-game {
   height: auto;
-  margin:auto;
   width: 400px;
-  display: block;
+  margin:auto;
+  display: inline-block;
 }
 
 .gwc-mainprofile {
