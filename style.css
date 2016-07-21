@@ -396,7 +396,7 @@ ul.gwc-topnav li.gwc-icon {
   border: 5px solid #A9A9A9;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
-  width: 50%;
+  margin: 10%;
   display: inline-block;
 }
 
