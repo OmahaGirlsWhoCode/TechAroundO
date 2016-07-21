@@ -402,8 +402,8 @@ ul.gwc-topnav li.gwc-icon {
 
 .gwc-game {
   height: auto;
-  width: 40%;
-  margin:auto;
+  width: 100%;
+  text-align: center;
   display: inline-block;
 }
 
