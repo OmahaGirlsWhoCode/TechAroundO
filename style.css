@@ -129,10 +129,10 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 .gwc-profile {
-  margin: 2% 0px 2% 3%;
+  margin: auto;
   font-family: garamond;
   border: 5px solid #A9A9A9;
-  width: 70%;
+  width: 65%;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
   display: inline-block;
@@ -143,7 +143,7 @@ span {
 }
 
 .gwc-picture {
-  margin: 2% 2% 2% 0px;
+  margin: auto;
   float: right;
   border: 5px solid #A9A9A9;
   width: 20%;
