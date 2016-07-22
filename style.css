@@ -94,6 +94,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   font-family: 'Poiret One', cursive;
   color: #FF383F;
   text-align: center;
+  margin: auto;
 }
 
 .gwc-personname {
