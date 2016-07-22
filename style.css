@@ -390,14 +390,14 @@ ul.gwc-topnav li.gwc-icon {
   font-size: 20px;
   color: black;
   font-family: 'Oxygen', sans-serif;
+  margin: auto;
+  display: inline-block;
 }
 
 .gwc-aboutgame {
   border: 5px solid #A9A9A9;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
-  margin: 15%;
-  display: inline-block;
 }
 
 .gwc-game {
