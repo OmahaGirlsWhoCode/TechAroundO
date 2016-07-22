@@ -13,7 +13,7 @@ ul.gwc-topnav {
 
 .gwc-name {
    color: #A9A9A9;
-   font-family: 'Poiret One', curive;  
+   font-family: 'Poiret One', curive;
    margin: 0 0;
    padding: 0 0;
 }
@@ -143,7 +143,7 @@ span {
 }
 
 .gwc-picture {
-  margin: 20px 20px 30px 0px;
+  margin: 5% 5% 8% 0px;
   float: right;
   border: 5px solid #A9A9A9;
   width: 20%;
