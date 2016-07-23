@@ -53,7 +53,7 @@ ul.gwc-topnav li a:hover {background-color: #111;}
 ul.gwc-topnav li.gwc-icon {display: none;}
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
-@media screen and (max-width:680px) {
+@media screen and (max-width:800px) {
   ul.gwc-topnav li:not(:first-child) {display: none;}
   ul.gwc-topnav li.gwc-icon {
     float: right;
@@ -62,7 +62,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
-@media screen and (max-width:680px) {
+@media screen and (max-width:800px) {
   ul.gwc-topnav li:not(:first-child) {display: none;}
   ul.gwc-topnav li.gwc-icon {
     float: right;
@@ -71,7 +71,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
-@media screen and (max-width:680px) {
+@media screen and (max-width:800px) {
   ul.gwc-topnav.responsive {position: relative;}
   ul.gwc-topnav.responsive li.gwc-icon {
     position: absolute;
