@@ -456,9 +456,8 @@ ul.gwc-topnav li.gwc-icon {
 }
 
 .carousel-caption {
-   top: 20%;
+   top: 40%;
    display: inline-block;
-   font-size: 75%;
 }
 
 @media only screen and (max-width: 800px) {
@@ -470,6 +469,10 @@ ul.gwc-topnav li.gwc-icon {
 
 .gwc-carousel {
     width: 90%;
+}
+
+ul.gwc-topnav.gwc-indextopnav {
+   margin: 0 0 0 0px;
 }
 
 
