@@ -461,6 +461,13 @@ ul.gwc-topnav li.gwc-icon {
    font-size: 75%;
 }
 
+@media only screen and (max-width: 800px) {
+    .carousel-caption h3 {
+        display: none;
+    
+    }
+}
+
 .gwc-carousel {
     width: 90%;
 }
