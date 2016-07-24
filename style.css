@@ -470,8 +470,7 @@ ul.gwc-topnav li.gwc-icon {
 
 .gwc-carousel {
     width: 90%;
-    margin: auto;
-    margin-top: 5%;
+    margin: 1% auto auto auto;
 }
 
 ul.gwc-topnav.gwc-indextopnav {
