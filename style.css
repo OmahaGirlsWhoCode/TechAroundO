@@ -409,6 +409,7 @@ ul.gwc-topnav li.gwc-icon {
   width: 100%;
   text-align: center;
   display: inline-block;
+  margin-bottom: 15px;
 }
 
 .gwc-mainprofile {
