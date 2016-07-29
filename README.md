@@ -4,5 +4,5 @@ Tech Around O! is the baby of the inaugural Omaha Girls Who Code high school gro
 
 Find the live site [here](https://omahagirlswhocode.github.io/TechAroundO/).
 
-If you are a contributor, consult the [wiki](/wiki) for references on how to update the site now that it's live.
+If you are a contributor, consult the [wiki](https://github.com/OmahaGirlsWhoCode/TechAroundO/wiki) for references on how to update the site now that it's live.
 
