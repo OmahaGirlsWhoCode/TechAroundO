@@ -71,6 +71,8 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   .gwc-picture {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
     /* border: 5px solid #A9A9A9; */
     width: 100%;
     position: relative;
@@ -96,6 +98,8 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   .gwc-picture {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
     /* border: 5px solid #A9A9A9; */
     width: 100%;
     position: relative;
@@ -130,6 +134,8 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   .gwc-picture {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
     /* border: 5px solid #A9A9A9; */
     width: 100%;
     position: relative;
@@ -191,7 +197,7 @@ span {
 }
 
 .gwc-picture {
-  margin: 0 6% 0 0;
+  margin: 0 6% 3% 0;
   float: right;
   border: 5px solid #A9A9A9;
   width: 20%;
@@ -206,10 +212,10 @@ span {
   font-size: 20px;
   font-family: garamond;
   border: 5px solid #A9A9A9;
-  width: 97%;
+  width: 95%;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
-  margin: 20px;
+  margin: auto 3% auto 3%;
 }
 
 .gwc-footerleft {
@@ -360,6 +366,8 @@ ul.gwc-topnav li.gwc-icon {
   .gwc-picture {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
     /* border: 5px solid #A9A9A9; */
     width: 100%;
     position: relative;
@@ -389,6 +397,8 @@ ul.gwc-topnav li.gwc-icon {
   .gwc-picture {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
     /* border: 5px solid #A9A9A9; */
     width: 100%;
     position: relative;
@@ -427,6 +437,8 @@ ul.gwc-topnav li.gwc-icon {
   .gwc-picture {
     margin-right: auto;
     margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
     /* border: 5px solid #A9A9A9; */
     width: 100%;
     position: relative;
@@ -574,6 +586,8 @@ ul.gwc-topnav li.gwc-icon {
     .gwc-picture {
         margin-right: auto;
         margin-left: auto;
+        margin-top: 3%;
+        margin-bottom: 3%;
         /* border: 5px solid #A9A9A9; */
         width: 100%;
         position: relative;
