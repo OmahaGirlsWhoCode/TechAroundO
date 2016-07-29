@@ -78,6 +78,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     /* border: 5px solid #A9A9A9; */
     width: 95%;
     position: relative;
+    display: block;
   }
 }
 
@@ -107,6 +108,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     /* border: 5px solid #A9A9A9; */
     width: 95%;
     position: relative;
+    display: block;
   }
 }
 
@@ -145,6 +147,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     width: 95%;
     position: relative;
     float: none;
+    display: block;
   }
 }
 
@@ -221,7 +224,7 @@ span {
   width: 95%;
   background: #EFEFEF;
   font-family: 'Oxygen', sans-serif;
-  margin: auto 3% auto 3%;
+  margin: 3% auto 3% auto;
 }
 
 .gwc-footerleft {
@@ -379,6 +382,7 @@ ul.gwc-topnav li.gwc-icon {
     /* border: 5px solid #A9A9A9; */
     width: 95%;
     position: relative;
+    display: block;
   }
 }
 
@@ -412,6 +416,7 @@ ul.gwc-topnav li.gwc-icon {
     /* border: 5px solid #A9A9A9; */
     width: 95%;
     position: relative;
+    display: block;
   }
 }
 
@@ -454,6 +459,7 @@ ul.gwc-topnav li.gwc-icon {
     width: 95%;
     position: relative;
     float: none;
+    display: block;
   }
 }
 
@@ -605,6 +611,7 @@ ul.gwc-topnav li.gwc-icon {
         width: 95%;
         position: relative;
         float: none;
+        display: block;
     }
 }
 
