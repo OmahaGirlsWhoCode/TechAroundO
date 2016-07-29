@@ -59,6 +59,15 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     float: right;
     display: inline-block;
   }
+  .gwc-profile {
+    margin: 0 2% 0 2%;
+    font-family: garamond;
+    border: 5px solid #A9A9A9;
+    width: 96%;
+    background: #EFEFEF;
+    font-family: 'Oxygen', sans-serif;
+    display: inline-block;
+  }
 }
 
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
@@ -66,6 +75,15 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   ul.gwc-topnav li:not(:first-child) {display: none;}
   ul.gwc-topnav li.gwc-icon {
     float: right;
+    display: inline-block;
+  }
+  .gwc-profile {
+    margin: 0 2% 0 2%;
+    font-family: garamond;
+    border: 5px solid #A9A9A9;
+    width: 96%;
+    background: #EFEFEF;
+    font-family: 'Oxygen', sans-serif;
     display: inline-block;
   }
 }
@@ -86,6 +104,15 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     display: block;
     text-align: left;
   }
+  .gwc-profile {
+    margin: 0 2% 0 2%;
+    font-family: garamond;
+    border: 5px solid #A9A9A9;
+    width: 96%;
+    background: #EFEFEF;
+    font-family: 'Oxygen', sans-serif;
+    display: inline-block;
+  {
 }
 
 #gwc-back {
@@ -300,6 +327,15 @@ ul.gwc-topnav li.gwc-icon {
     float: right;
     display: inline-block;
   }
+  .gwc-profile {
+    margin: 0 2% 0 2%;
+    font-family: garamond;
+    border: 5px solid #A9A9A9;
+    width: 96%;
+    background: #EFEFEF;
+    font-family: 'Oxygen', sans-serif;
+    display: inline-block;
+  {
 }
 
 
@@ -311,6 +347,15 @@ ul.gwc-topnav li.gwc-icon {
   }
   ul.gwc-topnav li.gwc-icon {
     float: right;
+    display: inline-block;
+  }
+  .gwc-profile {
+    margin: 0 2% 0 2%;
+    font-family: garamond;
+    border: 5px solid #A9A9A9;
+    width: 96%;
+    background: #EFEFEF;
+    font-family: 'Oxygen', sans-serif;
     display: inline-block;
   }
 }
@@ -334,6 +379,15 @@ ul.gwc-topnav li.gwc-icon {
   ul.gwc-topnav.responsive li a {
     display: block;
     text-align: left;
+  }
+  .gwc-profile {
+    margin: 0 2% 0 2%;
+    font-family: garamond;
+    border: 5px solid #A9A9A9;
+    width: 96%;
+    background: #EFEFEF;
+    font-family: 'Oxygen', sans-serif;
+    display: inline-block;
   }
 }
 
@@ -465,6 +519,15 @@ ul.gwc-topnav li.gwc-icon {
     .carousel-caption h3 {
         display: none;
     
+    }
+    .gwc-profile {
+        margin: 0 2% 0 2%;
+        font-family: garamond;
+        border: 5px solid #A9A9A9;
+        width: 96%;
+        background: #EFEFEF;
+        font-family: 'Oxygen', sans-serif;
+        display: inline-block;
     }
 }
 
