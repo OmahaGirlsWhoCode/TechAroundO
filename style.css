@@ -68,6 +68,13 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     font-family: 'Oxygen', sans-serif;
     display: inline-block;
   }
+  .gwc-picture {
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 5px solid #A9A9A9; */
+    width: 100%;
+    position: relative;
+  }
 }
 
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
@@ -85,6 +92,13 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     background: #EFEFEF;
     font-family: 'Oxygen', sans-serif;
     display: inline-block;
+  }
+  .gwc-picture {
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 5px solid #A9A9A9; */
+    width: 100%;
+    position: relative;
   }
 }
 
@@ -112,7 +126,14 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     background: #EFEFEF;
     font-family: 'Oxygen', sans-serif;
     display: inline-block;
-  {
+  }
+  .gwc-picture {
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 5px solid #A9A9A9; */
+    width: 100%;
+    position: relative;
+  }
 }
 
 #gwc-back {
@@ -335,7 +356,14 @@ ul.gwc-topnav li.gwc-icon {
     background: #EFEFEF;
     font-family: 'Oxygen', sans-serif;
     display: inline-block;
-  {
+  }
+  .gwc-picture {
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 5px solid #A9A9A9; */
+    width: 100%;
+    position: relative;
+  }
 }
 
 
@@ -357,6 +385,13 @@ ul.gwc-topnav li.gwc-icon {
     background: #EFEFEF;
     font-family: 'Oxygen', sans-serif;
     display: inline-block;
+  }
+  .gwc-picture {
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 5px solid #A9A9A9; */
+    width: 100%;
+    position: relative;
   }
 }
 
@@ -388,6 +423,13 @@ ul.gwc-topnav li.gwc-icon {
     background: #EFEFEF;
     font-family: 'Oxygen', sans-serif;
     display: inline-block;
+  }
+  .gwc-picture {
+    margin-right: auto;
+    margin-left: auto;
+    /* border: 5px solid #A9A9A9; */
+    width: 100%;
+    position: relative;
   }
 }
 
@@ -528,6 +570,13 @@ ul.gwc-topnav li.gwc-icon {
         background: #EFEFEF;
         font-family: 'Oxygen', sans-serif;
         display: inline-block;
+    }
+    .gwc-picture {
+        margin-right: auto;
+        margin-left: auto;
+        /* border: 5px solid #A9A9A9; */
+        width: 100%;
+        position: relative;
     }
 }
 
