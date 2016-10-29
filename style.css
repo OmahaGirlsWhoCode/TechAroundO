@@ -34,7 +34,7 @@ ul.gwc-topnav li {
 .gwc-name {
   float: left;
 }
-/* Style the links inside the list items */
+/*      Style the links inside the list items */
 ul.gwc-topnav li a {
     display: inline-block;
     color: #f2f2f2;
